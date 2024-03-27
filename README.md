@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 npm i gsap @gsap/react
 npm i three @react-three/drei @react-three/fiber
+npm install --save @sentry/react // это отслеживание нашего сайта на ошибки и на посещение
+но он платный , только 14 дней бесплатно, я его не стал устанавливать
